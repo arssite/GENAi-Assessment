@@ -1,2 +1,32 @@
-# GENAi-Assessment
-Repo contains my internship assessment, focusing on a RAG model and an Interactive QA bot interface. The RAG model retrieves document embeddings via a vector database and generates answers using a generative model. The interface allows users to upload documents and get real-time answers. It includes code, a Colab, Docker deployment instructions.
+# Gen AI Engineer / Machine Learning Engineer Internship Assessment
+
+## Introduction
+Hello! I'm **Anmol Ratan Srivastava**, currently pursuing a Bachelor's in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. This repository contains my submission for the Gen AI Engineer / Machine Learning Engineer internship assessment, where I developed a **Retrieval-Augmented Generation (RAG) Model** and an **Interactive QA Bot Interface**.
+
+## Project Overview
+This project is divided into two parts:
+
+### Part 1: RAG Model for QA Bot
+The RAG model is designed to answer questions based on a provided dataset or document. It uses a **vector database** like Pinecone to store and retrieve document embeddings efficiently and a **generative model** (e.g., Cohere API) to generate accurate, context-aware answers.
+
+### Part 2: Interactive QA Bot Interface
+I built an interactive frontend using **Gradio**, allowing users to upload documents (e.g., PDFs) and ask questions in real-time. The interface processes the uploaded content using the RAG model, retrieving relevant document sections and generating real-time responses.
+
+## Key Features
+- **Document Upload & Real-Time QA**: Users can upload documents and ask questions based on the content.
+- **Efficient Retrieval**: Uses a vector database for fast and accurate document embedding retrieval.
+- **Generative Model**: Answers are generated contextually using a state-of-the-art generative model.
+- **Scalable and Modular Code**: Designed for easy scalability and modularity.
+
+## Links
+
+- [Colab Notebook](<insert-colab-link>)  
+- [Live Gradio Demo](<insert-gradio-link>)
+
+## How to Run
+1. **Colab**: Use the Colab notebook to explore the end-to-end RAG pipeline.
+2. **Gradio**: Try the interactive QA bot by uploading documents and asking questions in real-time via the Gradio interface.
+
+## Deployment
+The project is containerized using **Docker**, making it easy to deploy locally or in the cloud. Detailed deployment instructions can be found in the repository.
+
