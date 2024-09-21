@@ -20,8 +20,9 @@ I built an interactive frontend using **Gradio**, allowing users to upload docum
 
 ## Links
 
-- [Colab Notebook](<insert-colab-link>)  
-- [Live Gradio Demo](<insert-gradio-link>)
+- [Colab Notebook For Part 1](https://colab.research.google.com/drive/1yOgpty6XBrr1kka9sZATK6lYuaGfClqx?usp=sharing)
+- [Colab Notebook For Part 2](https://colab.research.google.com/drive/19qdUK0NnVdqPc6X4US4eNBUpaTBUGePL?usp=sharing)  
+- [Live Gradio Demo](https://a35335e31a4b6d4cda.gradio.live/)
 
 ## How to Run
 1. **Colab**: Use the Colab notebook to explore the end-to-end RAG pipeline.
