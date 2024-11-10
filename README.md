@@ -1,5 +1,4 @@
-# Gen AI Engineer / Machine Learning Engineer Internship Assessment
-
+# Gen AI Engineer / Machine Learning Engineer 
 ## Introduction
 Hello! I'm **Anmol Ratan Srivastava**, currently pursuing a Bachelor's in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. This repository contains my submission for the Gen AI Engineer / Machine Learning Engineer internship assessment, where I developed a **Retrieval-Augmented Generation (RAG) Model** and an **Interactive QA Bot Interface**.
 
